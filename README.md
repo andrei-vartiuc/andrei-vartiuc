@@ -30,7 +30,7 @@
   |---------------------|-------------------------------------------------|-------------------------------------------------------------------------------------|
   | KrateBox            | https://kratebox.com/                           | A privacy-focused, 100% local multitool featuring essential utilities.              |
   | Ocr Search          | https://github.com/android-varx/Ocr-Search | Optical character recognition app in C to search for words in a grid.|
-  |Quasar Image Editor|https://github.com/android-varx/QuasarImageEditor|Quasar: A modern and blazing-fast image editor written in Rust.|
+  |Quasar Image Editor|https://github.com/android-varx/Quasar-Image-Editor|Quasar: A modern and blazing-fast image editor written in Rust.|
   | PassVault           | https://github.com/android-varx/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
   | Magic Dashboard | https://github.com/android-varx/Magic-Dashboard | Rust crate for real-time local web visualization of variables.|
   | Musical        | https://github.com/android-varx/Musical | Kotlin-based app to download and listen to music for free. |
