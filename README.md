@@ -29,13 +29,13 @@
   | Name                | Link                                            | Description                                                                         |
   |---------------------|-------------------------------------------------|-------------------------------------------------------------------------------------|
   | KrateBox            | https://kratebox.com/                           | A privacy-focused, 100% local multitool featuring essential utilities.              |
-  | Ocr Search          | https://github.com/android-varx/Ocr-Search | Optical character recognition app in C to search for words in a grid.|
-  |Quasar Image Editor|https://github.com/android-varx/Quasar-Image-Editor|Quasar: A modern and blazing-fast image editor written in Rust.|
-  | PassVault           | https://github.com/android-varx/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
-  | Magic Dashboard | https://github.com/android-varx/Magic-Dashboard | Rust crate for real-time local web visualization of variables.|
-  | Musical        | https://github.com/android-varx/Musical | Kotlin-based app to download and listen to music for free. |
-  | Matehmatix         | https://github.com/android-varx/Mathematix | Kotlin app for easy mental math practice.|
-  | Eternal Forest      | https://github.com/android-varx/Eternal-Forest  | A 2D game developed from scratch using C# and the Godot Engine.|
+  | Ocr Search          | https://github.com/andrei-var/Ocr-Search | Optical character recognition app in C to search for words in a grid.|
+  |Quasar Image Editor|https://github.com/andrei-var/Quasar-Image-Editor|Quasar: A modern and blazing-fast image editor written in Rust.|
+  | PassVault           | https://github.com/andrei-var/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
+  | Magic Dashboard | https://github.com/andrei-var/Magic-Dashboard | Rust crate for real-time local web visualization of variables.|
+  | Musical        | https://github.com/andrei-var/Musical | Kotlin-based app to download and listen to music for free. |
+  | Matehmatix         | https://github.com/andrei-var/Mathematix | Kotlin app for easy mental math practice.|
+  | Eternal Forest      | https://github.com/andrei-var/Eternal-Forest  | A 2D game developed from scratch using C# and the Godot Engine.|
   
 
 <div align="center">
