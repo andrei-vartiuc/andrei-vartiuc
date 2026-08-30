@@ -34,7 +34,6 @@
   | PassVault           | https://github.com/andrei-var/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
   | Magic Dashboard | https://github.com/andrei-var/Magic-Dashboard | Rust crate for real-time local web visualization of variables.|
   | Musical        | https://github.com/andrei-var/Musical | Kotlin-based app to download and listen to music for free. |
-  | Matehmatix         | https://github.com/andrei-var/Mathematix | Kotlin app for easy mental math practice.|
   | Eternal Forest      | https://github.com/andrei-var/Eternal-Forest  | A 2D game developed from scratch using C# and the Godot Engine.|
   
 
