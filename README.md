@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,9370DB&height=230&section=header&text=andrei-var&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=EPITA%20Student&descAlignY=65&descAlign=50&descColor=ffffff&descSize=20&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,9370DB&height=230&section=header&text=andrei-vartiuc&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=EPITA%20Student&descAlignY=65&descAlign=50&descColor=ffffff&descSize=20&reversal=false" />
 </div>
 
 ### Hi! I'm Andrei, a 20 year old student currently studying at EPITA. I am passionate about computer science and always looking for new challenges to tackle. Welcome to my profile !
@@ -29,12 +29,12 @@
   | Name                | Link                                            | Description                                                                         |
   |---------------------|-------------------------------------------------|-------------------------------------------------------------------------------------|
   | KrateBox            | https://kratebox.com/                           | A privacy-focused, 100% local multitool featuring essential utilities.              |
-  | Ocr Search          | https://github.com/andrei-var/Ocr-Search | Optical character recognition app in C to search for words in a grid.|
-  |Quasar Image Editor|https://github.com/andrei-var/Quasar-Image-Editor|Quasar: A modern and blazing-fast image editor written in Rust.|
-  | PassVault           | https://github.com/andrei-var/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
-  | Magic Dashboard | https://github.com/andrei-var/Magic-Dashboard | Rust crate for real-time local web visualization of variables.|
-  | Musical        | https://github.com/andrei-var/Musical | Kotlin-based app to download and listen to music for free. |
-  | Eternal Forest      | https://github.com/andrei-var/Eternal-Forest  | A 2D game developed from scratch using C# and the Godot Engine.|
+  | Ocr Search          | https://github.com/andrei-vartiuc/Ocr-Search | Optical character recognition app in C to search for words in a grid.|
+  |Quasar Image Editor|https://github.com/andrei-vartiuc/Quasar-Image-Editor|Quasar: A modern and blazing-fast image editor written in Rust.|
+  | PassVault           | https://github.com/andrei-vartiuc/PassVault       | A secure, zero-knowledge local password manager using Python and AES encryption.    |
+  | Magic Dashboard | https://github.com/andrei-vartiuc/Magic-Dashboard | Rust crate for real-time local web visualization of variables.|
+  | Musical        | https://github.com/andrei-vartiuc/Musical | Kotlin-based app to download and listen to music for free. |
+  | Eternal Forest      | https://github.com/andrei-vartiuc/Eternal-Forest  | A 2D game developed from scratch using C# and the Godot Engine.|
   
 
 <div align="center">
